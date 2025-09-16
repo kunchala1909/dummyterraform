@@ -10,4 +10,4 @@ resource "aws_instance" "three" {
   instance_type = "t2.micro"     # ✅ Free Tier–eligible
   ...
 }
-}
+
